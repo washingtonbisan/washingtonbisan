@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @washingtonbisan
 - 👀 I’m interested in Tech and data
-- 🌱 I’m currently learning data analysis 
-- 💞️ I’m looking to collaborate on any project concerning data analysis and visualization
+- 🌱 I’m an android app developer and a data analyst
+- 💞️ I’m looking to collaborate on any project concerning android development and data analysis
 - 📫 How to reach me my email, and twitter @blessed_garba. 
 
 <!---
