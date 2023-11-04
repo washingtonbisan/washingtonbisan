@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @washingtonbisan
 - 👀 I’m interested in Tech and data
-- 🌱 I’m a python django developer and a data analyst
-- 💞️ I’m looking to collaborate on any project concerning the django framework and data analysis
+- 🌱 I’m an android developer
+- 💞️ I’m looking to collaborate on any project concerning android moblie development
 - 📫 How to reach me my email, and twitter @blessed_garba. 
 
 <!---
